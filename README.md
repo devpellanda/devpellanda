@@ -6,14 +6,16 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cris-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt= "Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
-  <img align="center" alt="Cris-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="k-python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="k-r" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
+  <img align="center" alt="k-mysql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="k-hadoop" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg">
+  <img align="center" alt= "k-azure" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">       
+  <img align="center" alt="k-aws" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="k-tensor" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="k-js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="k-css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="k-html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 </div><br>
 
 ### GitHub Stats
