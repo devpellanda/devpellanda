@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Keise+Pellanda.;Welcome+to+my+Github+profile+<3!+)](https://git.io/typing-svg)
 
-<p align="right">
-<img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="Pixel Art" align="right" width="500">
-<p/>
+<img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="Pixel Art" align="right" width="250">
+
 
 ### Technologies and tools:
 
