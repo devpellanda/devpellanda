@@ -9,7 +9,7 @@
   <img align="center" alt="k-python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="k-r" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
   <img align="center" alt="k-mysql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="k-hadoop" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg">
+  <img align="center" alt="k-hadoop" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg">
   <img align="center" alt= "k-azure" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">       
   <img align="center" alt="k-aws" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="k-tensor" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
@@ -21,9 +21,9 @@
 ### GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/anacristinaneves">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  <a href="https://github.com/devpellanda">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=devpellanda&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=devpellanda&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
   </a>
 </div>
     
