@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="Pixel Art" align="right" width="300">
 
 
-### Technologies and tools:
+### Technologies and Tools 🛠️:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="k-python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -18,7 +18,7 @@
   <img align="center" alt="k-html" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 </div><br>
 
-### GitHub Stats
+### GitHub Status 📊
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/devpellanda">
@@ -27,7 +27,7 @@
   </a>
 </div>
     
-### Contact
+### Contact 📫
 
 <div> 
   <a href="https://www.linkedin.com/in/keise-pellanda-97055016a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
